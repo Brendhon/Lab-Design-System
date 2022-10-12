@@ -59,6 +59,16 @@ $ npm run dev
 
 ---
 
+### 📖 Rodando Storybook
+
+```bash
+
+# Execute com o comando:
+$ npm run storybook
+
+```
+---
+
 ## 👥 Autor
 <img style="border-radius: 20%;" src="https://avatars.githubusercontent.com/u/52840078?v=4" width="120px;" alt="120px"/><br>
 **Brendhon Moreira**
