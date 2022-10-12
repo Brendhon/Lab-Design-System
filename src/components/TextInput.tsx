@@ -24,7 +24,8 @@ function TextInputRoot({ children }: TextInputRootProps) {
       'w-full',
       'bg-gray-800',
       'focus-within:ring-2',
-      'ring-cyan-200'
+      'ring-cyan-200',
+      'h-12'
     )}>
       {children}
     </div>
